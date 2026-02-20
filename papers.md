@@ -1,0 +1,24 @@
+# Security Research Papers for Monolithic Firmware
+An index of research papers on monolithic firmware security. 
+
+
+
+| Paper | Venue | Year | Slide | Video | Source Code | Dataset |
+| :-------------: | :----------: | :--: | :-----------: | :--------------: | :---------------------: | :---------------------: |
+| [FirmReBugger: A Benchmark Framework for Monolithic Firmware Fuzzers](https://arxiv.org/abs/2601.15774) | Usenix Security | 2026 | S | V | [FirmReBugger](https://github.com/FirmReBugger/FirmReBugger) | [FirmReBugger](https://github.com/FirmReBugger/FirmReBugger) |
+| [Khost: KVM-based Near Native MCU Firmware Rehosting](https://yuanxzhang.github.io/) | USENIX Security | 2026 | S | V | [Khost](https://github.com/seclab-fudan/Khost) | D |
+| [Moye: A Wallbreaker for Monolithic Firmware](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/67/Moye-A-Wallbreaker-for-Monolithic-Firmware) | ICSE | 2025 | S | V | G | D |
+| [FlexEmu: Towards Flexible MCU Peripheral Emulation](https://dl.acm.org/doi/10.1145/3719027.3765086) | ACM CCS | 2025 | S | V | [FlexEmu](https://github.com/FlexEmu/flexemu) | D |
+| [Protocol-Aware Firmware Rehosting for Effective Fuzzing of Embedded Network Stacks](https://arxiv.org/abs/2509.13740) | ACM CCS | 2025 | S | V | [pemu](https://github.com/MPI-SysSec/pemu) | D |
+| [Coding style matters: Scalable and efficient identification of memory management functions in monolithic firmware](https://www.sciencedirect.com/science/article/pii/S0164121225001402) | JSS | 2025 | S | V | G | D |
+| [MultiFuzz: A Multi-Stream Fuzzer For Testing Monolithic Firmware](https://www.usenix.org/conference/usenixsecurity24/presentation/chesser) | USENIX Security | 2024 | S | [V](https://youtu.be/OmRRxnzHMLQ) | [MultiFuzz](https://github.com/MultiFuzz/MultiFuzz) | D |
+| [Facilitating Non-Intrusive In-Vivo Firmware Testing with Stateless Instrumentation](https://www.ndss-symposium.org/wp-content/uploads/2024-116-paper.pdf) | NDSS | 2024 | [S](https://www.ndss-symposium.org/wp-content/uploads/2024-116-slides.pdf) | [V](https://youtu.be/6TbcMvuFVJo?si=W0auxyiq5TDGOZIx) | [IPEA](https://github.com/MCUSec/IPEA) | [IPEA artifact (Zenodo)](https://doi.org/10.5281/zenodo.8296807) |
+| [TaiE: Function Identification for Monolithic Firmware](https://dl.acm.org/doi/pdf/10.1145/3643916.3644407) | ICPC (Software Engineering) | 2024 | S | V | [TaiE](https://github.com/thisisjth/TaiE) | D |
+| [SHiFT: Semi-hosted Fuzz Testing for Embedded Applications](https://www.usenix.org/system/files/usenixsecurity24-mera.pdf) | USENIX Security | 2024 | [S](https://www.usenix.org/system/files/usenixsecurity24_slides-mera.pdf) | [V](https://youtu.be/pw8lx2IFtX0) | [SHiFT](https://github.com/RiS3-Lab/SHiFT) | D |
+| [SURGEON: Performant, Flexible and Accurate Re-Hosting via Transplantation](https://hexhive.epfl.ch/publications/files/24BAR.pdf) | NDSS BAR Workshop | 2024 | S | V | [SURGEON](https://github.com/HexHive/SURGEON) | D |
+| [HOEDUR: Embedded Firmware Fuzzing using Multi-Stream Inputs](https://www.usenix.org/system/files/usenixsecurity23-scharnowski.pdf) | USENIX Security | 2023 | S | [V](https://youtu.be/lqZ945w6OH8) | [Hoedur](https://github.com/fuzzware-fuzzer/hoedur) | D |
+| [Shimware: Toward Practical Security Retrofitting for Monolithic Firmware Images](https://sites.cs.ucsb.edu/~vigna/publications/2023_RAID_Shimware.pdf) | RAID | 2023 | S | V | [Shimware](https://github.com/ucsb-seclab/shimware) | [shimdata / case-study data](https://github.com/ucsb-seclab/shimware) |
+| [Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing](https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski) | USENIX Security | 2022 | S | [V](https://youtu.be/GBqW5u-0DkI) | [Fuzzware](https://github.com/fuzzware-fuzzer/fuzzware) | D |
+| [What Your Firmware Tells You Is Not How You Should Emulate It: A Specification‑Guided Approach for Firmware Emulation](https://dl.acm.org/doi/10.1145/3548606.3559386) | ACM CCS | 2022 | S | V | [SEmu](https://github.com/MCUSec/SEmu) | D |
+| [HEAPSTER: Analyzing the Security of Dynamic Allocators for Monolithic Firmware Images](https://sites.cs.ucsb.edu/~chris/research/doc/oakland22_heapster.pdf) | IEEE S&P | 2022 | S | V | [HEAPSTER](https://github.com/ucsb-seclab/heapster) | [Heapster dataset / scripts](https://github.com/ucsb-seclab/heapster) |
+| [From Library Portability to Para-rehosting: Natively Executing Microcontroller Software on Commodity Hardware](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6B-3_24308_paper.pdf) | NDSS | 2021 | S | [V](https://www.youtube.com/watch?v=C5vDkCpHINY&list=PLfUWWM-POgQuaImJ-0o-wxdSmVuVtkE9j&index=3) | [para-rehosting](https://github.com/MCUSec/para-rehosting) | D |
