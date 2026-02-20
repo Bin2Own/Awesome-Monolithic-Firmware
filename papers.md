@@ -3,7 +3,7 @@ An index of research papers on monolithic firmware security.
 
 ## Research Papers
 | Paper | Venue | Year | Slide | Video | Source Code | Dataset | Tag |
-| :---------------------------------------------: | :----------: | :--: | :-----------: | :--------------: | :---------------------: | :---------------------: | :-- |
+| :---------------------------------------------: | :----------: | :--: | :-----------: | :--------------: | :---------------------: | :---------------------: | :----: |
 | [FirmReBugger: A Benchmark Framework for Monolithic Firmware Fuzzers](https://arxiv.org/abs/2601.15774) | USENIX Security | 2026 | – | – | [FirmReBugger](https://github.com/FirmReBugger/FirmReBugger) | [FirmBench](https://github.com/FirmReBugger/FirmReBugger) | benchmark, fuzzing |
 | [Khost: KVM-based Near Native MCU Firmware Rehosting](https://yuanxzhang.github.io/) | USENIX Security | 2026 | – | – |  [Khost](https://github.com/seclab-fudan/Khost) | – | rehosting, MCU |
 | [RTCON: Context-Adaptive Function-Level Fuzzing for RTOS Kernels](https://www.ndss-symposium.org/ndss-paper/rtcon-context-adaptive-function-level-fuzzing-for-rtos-kernels/) | NDSS | 2026 | - | - | [RTCon](https://github.com/kaist-hacking/RTCon), [Artifact](https://zenodo.org/records/17540919) | - | RTOS, kernel, fuzzing |
