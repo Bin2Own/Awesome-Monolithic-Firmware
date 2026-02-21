@@ -1,5 +1,5 @@
 # Awesome-Monolithic-Firmware
-An awesome list of security research resources for monolithic firmware (e.g., MCU, RTOS, and PLCs.), including papers, datasets, tools, analysis methods, and reproducible artifacts.
+An awesome list of security research resources for monolithic firmware (e.g., MCU, RTOS, bare-metal, and PLCs.), including papers, datasets, tools, analysis methods, and reproducible artifacts.
 
 ## Goals and Scope
 - Focus on reverse engineering, and vulnerability discovery.
