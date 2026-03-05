@@ -62,3 +62,4 @@ An index of research papers on monolithic firmware security.
 | Paper | Venue | Year | Tag |
 | :-------------: | :----------: | :--: | :---: |
 | [SoK: Security in Real-Time Systems](https://monowarhasan.info/papers/RT_Security_SoK_CSUR_2024.pdf) | ACM Computing Surveys | 2024 | RTOS, real-time, survey |
+| [A Survey of Operating System Kernel Fuzzing](https://dl.acm.org/doi/10.1145/3783992)| ACM Transactions on Soware Engineering and Methodology | 2025 | Operation System, Fuzzing, Survey |
