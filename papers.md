@@ -4,6 +4,7 @@ An index of research papers on monolithic firmware security.
 ## Research Papers
 | Paper | Venue | Year | Slide | Video | Source Code | Dataset | Tag |
 | :---------------------------------------------: | :----------: | :--: | :-----------: | :--------------: | :---------------------: | :---------------------: | :----: |
+| [Stop Starving or Stuffing Me: Boosting Firmware Fuzzing Efficiency with On-demand Input Delivery](https://www.computer.org/csdl/proceedings-article/sp/2026/606500c695/2geEWr9XMXu) | S&P | 2026 | [S](https://www.s3lab.io/download?uid=209&slides=1&type=pdf) | - | [FIDO](https://github.com/IoTS-P/FIDO) | - | MCU, static and dynamic analysis, Fuzzing |
 | [FirmReBugger: A Benchmark Framework for Monolithic Firmware Fuzzers](https://www.usenix.org/conference/usenixsecurity26/presentation/duong) | USENIX Security | 2026 | – | – | [FirmReBugger](https://github.com/FirmReBugger/FirmReBugger) | [FirmBench](https://github.com/FirmReBugger/FirmReBugger) | benchmark, fuzzing |
 | [Effective On-Hardware Fuzzing of Embedded Operating Systems](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_26/eof_eurosys26.pdf) | EUROSYS | 2026 | - | - | [EOF](https://github.com/Rrooach/EOF-eurosys26) | - | source code, embedded operating system, fuzzing |
 | [Khost: KVM-based Near Native MCU Firmware Rehosting](https://www.usenix.org/conference/usenixsecurity26/presentation/wang-chunlin) | USENIX Security | 2026 | – | – |  [Khost](https://github.com/seclab-fudan/Khost) | – | rehosting, MCU |
